@@ -1,0 +1,6 @@
+@webSocketGameApi_HostAddress = http://localhost:5296
+
+GET {{webSocketGameApi_HostAddress}}/
+Accept: application/json
+
+###
